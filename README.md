@@ -1,0 +1,2 @@
+# gognan
+Learning about go
